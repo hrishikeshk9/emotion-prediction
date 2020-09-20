@@ -1,2 +1,2 @@
 # emotion-prediction
-Predicting Emotions from twitter data  
+Predicting Emotions from twitter text data  
